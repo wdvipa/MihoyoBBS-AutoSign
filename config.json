@@ -1,0 +1,23 @@
+{
+    "Cookie": "account_mid_v2=; ltoken=; ltuid=; cookie_token_v2=",
+
+    "Delay": true, 
+
+    "Enable": {
+        "BH2": true,
+        "BH3": true,
+        "SR": true,
+        "YS": true,
+        "BBS": true,
+        "ChannelUpVote": true,
+        "ChannelPublish": false,
+        "DeleteOldPost": false
+    },
+
+    "Game_BlackList": {
+        "BH2": [""],
+        "BH3": [""], 
+        "SR": [""], 
+        "YS": [""]
+    }
+}
